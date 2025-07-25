@@ -1,4 +1,11 @@
-# Task-2
+COMPANY : CODTECH IT SOLUTIONS
+NAME : ABHISHEK.L 
+INTERN ID: CT04DH626 
+DOMAIN : DATA SCIENCE 
+DURATION : 4 WEEKS 
+MENTOR : NEELA SANTOSH
+
+ # Task-2
 Project Report: Cat vs Dog Image Classification using Deep Learning (ResNet18)
 🎯 Objective
 To implement a deep learning model using PyTorch to classify images of cats and dogs, as part of the internship task:
