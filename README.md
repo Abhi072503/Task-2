@@ -38,3 +38,4 @@ Data Augmentation: Horizontal Flip, Random Rotation
 
 ##output
 
+   <img width="1900" height="976" alt="Image" src="https://github.com/user-attachments/assets/7040eb11-146b-446f-a56a-24b537140724" />
